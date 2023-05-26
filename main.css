@@ -56,3 +56,9 @@ button:hover {
     margin-bottom: 8px;
     display: none;
 }
+
+input.error {
+    color: rgb(255,0,0);
+    border-color: rgb(255,0,0);
+    outline-color: rgb(255,0,0);
+}
